@@ -1,1 +1,1 @@
-##1 owner of ziya1337.com
+# owner of ziya1337.com
