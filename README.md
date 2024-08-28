@@ -1,1 +1,3 @@
-# owner of ziya1337.com
+# owner of erosium.club discord group
+# boss of erosium lua
+
